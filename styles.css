@@ -1,0 +1,34 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+main {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+article img {
+    width: 40%; /* Further reduced size */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+}
